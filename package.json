@@ -1,0 +1,16 @@
+{
+  "name": "giftly-cypress",
+  "version": "1.0.0",
+  "description": "Giftly Test Assignment",
+  "main": "index.js",
+  "devDependencies": {
+    "cypress": "^13.3.2",
+    "cypress-soft-assertions": "^1.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "author": "Sokolov",
+  "license": "ISC"
+}
